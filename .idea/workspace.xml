@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51d4eff3-a9e2-4198-9055-1e1c57f48c60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Selin\WebstormProjects\project1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFkwoxYgNQK0HFLsvLKhcPC2UO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d4eff3-a9e2-4198-9055-1e1c57f48c60" name="Default Changelist" comment="" />
+      <created>1584442470272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584442470272</updated>
+      <workItem from="1584442471467" duration="1732000" />
+      <workItem from="1584545311088" duration="8988000" />
+      <workItem from="1584612494748" duration="7020000" />
+      <workItem from="1584695519507" duration="3141000" />
+      <workItem from="1584805075344" duration="8956000" />
+      <workItem from="1584903378355" duration="4714000" />
+      <workItem from="1584908300153" duration="618000" />
+      <workItem from="1585048949380" duration="1597000" />
+      <workItem from="1585081974398" duration="1391000" />
+      <workItem from="1585230870609" duration="4296000" />
+      <workItem from="1585507524894" duration="3787000" />
+      <workItem from="1585803967231" duration="39000" />
+      <workItem from="1585940853913" duration="2042000" />
+      <workItem from="1586370367178" duration="5490000" />
+      <workItem from="1586536523053" duration="68000" />
+      <workItem from="1586544273761" duration="3155000" />
+      <workItem from="1586603438037" duration="2385000" />
+      <workItem from="1586784120637" duration="278000" />
+      <workItem from="1587145294506" duration="29000" />
+      <workItem from="1587574972207" duration="604000" />
+      <workItem from="1587752043363" duration="49000" />
+      <workItem from="1587984236610" duration="983000" />
+      <workItem from="1587986796073" duration="1178000" />
+      <workItem from="1593420352426" duration="4723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="185" key="#Inspections" timestamp="1585946362322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="185" key="#Inspections/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1585946362322" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587989710529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1587989710529" />
+    <state x="590" y="373" key="Performance.Activity.Monitor" timestamp="1586784332464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="373" key="Performance.Activity.Monitor/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1586784332464" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1593425913261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1593425913261" />
+    <state x="1084" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584907303745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1084" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1584907303745" />
+  </component>
+</project>
